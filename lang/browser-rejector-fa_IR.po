@@ -1,0 +1,421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tarahanenovin\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/browser-rejector\n"
+"POT-Creation-Date: 2012-09-10 03:24:08+00:00\n"
+"PO-Revision-Date: 2012-09-10 19:34-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\Program Files (x86)\\EasyPHP-5.3.8.0\\www\\wordpress"
+"\\wp-content\\plugins\\browser-rejector\n"
+"X-Poedit-SearchPath-0: C:\\Program Files (x86)\\EasyPHP-5.3.8.0\\www"
+"\\wordpress\\wp-content\\plugins\\browser-rejector\n"
+
+#: browser-rejector.php:51
+msgid "Did you know that your internet browser is out of date?"
+msgstr "آیا شما می دانید که مرورگر اینترنت شما از تاریخ؟"
+
+#: browser-rejector.php:52
+msgid ""
+"Your browser is out of date and may not be able to properly display our "
+"website."
+msgstr "مرورگر شما از تاریخ و ممکن است نتوانید به درستی نمایش وب سایت ما."
+
+#: browser-rejector.php:53
+msgid ""
+"A list of modern browsers is below; simply click an icon to go to the "
+"browser's download page."
+msgstr ""
+"لیستی از مرورگرهای مدرن در زیر، به سادگی بر روی آیکون برای رفتن به صفحه "
+"دانلود مرورگر."
+
+#: browser-rejector.php:55
+msgid ""
+"By closing this window you acknowledge that your experience on our website "
+"may be degraded."
+msgstr ""
+"با بستن این پنجره شما اذعان دارند که تجربه خود را در وب سایت ما ممکن است "
+"انحطاط."
+
+#: browser-rejector.php:56
+msgid "Close Window"
+msgstr "بستن پنجره"
+
+#. #-#-#-#-#  plugin.pot (Browser Rejector 2.05)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: browser-rejector.php:95
+msgid "Browser Rejector"
+msgstr "مسدود کردن مرورگرها"
+
+#: browser-rejector.php:118
+msgid "Browser Rejector Settings"
+msgstr "تنظیمات افزونه"
+
+#: browser-rejector.php:120
+msgid "Rejection Window"
+msgstr "تنظیمات عمومی"
+
+#: browser-rejector.php:121
+msgid "Browsers to Reject"
+msgstr "مرورگرهای غیرقابل قبول"
+
+#: browser-rejector.php:122
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: browser-rejector.php:137 browser-rejector.php:297
+msgid "Internet Explorer"
+msgstr "اینترنت اکسپلورر"
+
+#: browser-rejector.php:137 browser-rejector.php:147 browser-rejector.php:156
+#: browser-rejector.php:165 browser-rejector.php:174
+msgid "Current Version"
+msgstr "(نسخه ی کامل )"
+
+#: browser-rejector.php:139
+#, fuzzy
+msgid "6 (highly unpredictable and unstable)"
+msgstr "نسخه ی 6 (غیرقابل استناد و بی ثبات و منسوخ شده)"
+
+#: browser-rejector.php:140
+msgid "7 (very unpredictable)"
+msgstr "نسخه ی 7 (غیرقابل استناد)"
+
+#: browser-rejector.php:141
+msgid "8 (no html5/css3 implementation)"
+msgstr "نسخه ی 8 (عدم پشتیبانی از HTML5 و عدم اجرای CSS3 )"
+
+#: browser-rejector.php:142 browser-rejector.php:151 browser-rejector.php:160
+#: browser-rejector.php:169 browser-rejector.php:177
+#, fuzzy
+msgid "All versions (discouraged except for testing purposes)"
+msgstr "(همه ی نسخه ها نکته:می توان از این گزینه برای آزمایش افزونه بهره برد)"
+
+#: browser-rejector.php:147 browser-rejector.php:309
+msgid "Safari"
+msgstr "سافاری"
+
+#: browser-rejector.php:149
+#, fuzzy
+msgid "2-3 (no html5/css3)"
+msgstr "نسخه های 2 و 3 (عدم پشتیبانی از HTML5 و CSS3)"
+
+#: browser-rejector.php:150
+#, fuzzy
+msgid ""
+"4 (some html5/css3) - <i>Note: Android 3.x default browser identifies as "
+"Safari 4"
+msgstr ""
+"نسخه 4 (عدم پشتیبانی از CSS3 و برخی از دستورات HTML5 ) نكته:مرورگر پیشفرض "
+"آندروید 3 نیز همانند این نسخه است."
+
+#: browser-rejector.php:156 browser-rejector.php:301
+msgid "Firefox"
+msgstr "فایرفاکس"
+
+#: browser-rejector.php:158
+#, fuzzy
+msgid "1-2 (no html5/css3)"
+msgstr "نسخه های یک و 2 (عدم پشتیبانی CSS3 و HTML5 )"
+
+#: browser-rejector.php:159
+#, fuzzy
+msgid "3 (limited html5/css3, depending on 3.x version)"
+msgstr "نسخه 3 (محدودیت در HTML5 و CSS3 )"
+
+#: browser-rejector.php:165 browser-rejector.php:305
+msgid "Opera"
+msgstr "اپرا"
+
+#: browser-rejector.php:167
+#, fuzzy
+msgid "7-9 (no html5/css3)"
+msgstr "نسخه های 7 تا 9 ( عدم پشتیبانی از HTML5 و CSS3 )"
+
+#: browser-rejector.php:168
+#, fuzzy
+msgid "10 (early html5/css3 adoptions)"
+msgstr "نسخه 10"
+
+#: browser-rejector.php:174 browser-rejector.php:289
+msgid "Chrome"
+msgstr "کروم"
+
+#: browser-rejector.php:176
+#, fuzzy
+msgid "1-3 (early html5/css3 adoptions)"
+msgstr "نسخه های 1 تا 3"
+
+#: browser-rejector.php:186
+msgid "Allow Visitors to Close the Rejection Window?"
+msgstr "بازدیدکننده اجازه داشته باشد که پنجره ی هشدار را ببندد؟"
+
+#: browser-rejector.php:186
+msgid "Note: the window overlays your site with a semi-transparent background."
+msgstr ""
+"نکته: وقتی پنجره ی هشدار باز شود،پس زمینه ی سایت شما نیمه شفاف خواهد شد."
+
+#: browser-rejector.php:188 browser-rejector.php:238
+#, fuzzy
+msgid "Yes"
+msgstr "بلی"
+
+#: browser-rejector.php:188
+msgid ""
+"(visitors in rejected browsers can close the rejection message and continue "
+"to your site)"
+msgstr ""
+"(بازدیدکننده می تواند پنجره ی هشدار را بسته و به مشاهده سایت شما ادامه دهد)"
+
+#: browser-rejector.php:189 browser-rejector.php:239
+msgid "No"
+msgstr "خیر"
+
+#: browser-rejector.php:189
+msgid ""
+"(visitors must install a modern broswer or Chrome Frame before accessing "
+"your site)"
+msgstr ""
+"(بازدیدکننده حتما باید یک مرورگر جدید دانلود و نصب کند تا بتواند وارد سایت "
+"شما شود)"
+
+#: browser-rejector.php:192
+#, fuzzy
+msgid "Make sure that your theme's header.php file has the necessary"
+msgstr ""
+"حتما توابع wp_head و wp_footer را در قالب سایتتان داشته باشید و یا اضافه "
+"کنید."
+
+#: browser-rejector.php:192
+msgid "action hook."
+msgstr "قلاب عمل می کند."
+
+#: browser-rejector.php:192
+#, fuzzy
+msgid "Read WordPress' documentation on the wp_head() action hook here."
+msgstr "آموزش درباره ی"
+
+#: browser-rejector.php:195
+msgid "Browser Suggestion Display"
+msgstr "چه مرورگرهایی به بازدیدکننده پیشنهاد شوند؟"
+
+#: browser-rejector.php:197
+msgid "Display latest browser version number"
+msgstr "نمایش آخرین شماره نسخه مرورگر"
+
+#: browser-rejector.php:197
+#, fuzzy
+msgid ""
+"(plugin will be updated with each new browser version release, use if you "
+"keep your plugins up to date)"
+msgstr ""
+"(نمایش آخرین نسخه از مرورگر برای بازدیدکننده نکته: برای استفاده از این گزینه "
+"لازم است که افزونه حتما آبدیت باشد \"آخیرین نسخه باشد\")"
+
+#: browser-rejector.php:198
+msgid "Display solid html5 version number+ "
+msgstr "نمایش جامد HTML5 نسخه شماره +"
+
+#: browser-rejector.php:198
+msgid "(use if you don't update your plugins frequently)"
+msgstr "(استفاده از اگر شما پلاگین خود را به روز رسانی کنید غالبا)"
+
+#: browser-rejector.php:203
+msgid "Header Text"
+msgstr "عنوان پنجره ی هشدار"
+
+#: browser-rejector.php:203
+msgid "NO DOUBLE QUOTES!!! (\")"
+msgstr "از علامت نقل قول استفاده نکنید!!!"
+
+#: browser-rejector.php:209
+msgid "Paragraph 1"
+msgstr "خط اول"
+
+#: browser-rejector.php:215
+msgid "Paragraph 2"
+msgstr "خط دوم"
+
+#: browser-rejector.php:222
+msgid "Close Message"
+msgstr "پیام پایانی (پایین پنجره ی هشدار)"
+
+#: browser-rejector.php:228
+msgid "Close Link Text"
+msgstr "متن لینک (لینک بستن پنجره)"
+
+#: browser-rejector.php:236
+msgid "Remember if the visitor closed the rejection message?"
+msgstr "نحوه ی نمایش پنجره ی هشدار برای بازدیدکننده(فقط یکبار؟):"
+
+#: browser-rejector.php:238
+msgid "(the rejection window will only be displayed once per session)"
+msgstr "(فقط یک بار این پنجره را به بازدیدکننده نمایش بده)"
+
+#: browser-rejector.php:239
+msgid ""
+"(the rejection window will be displayed every time a new page is visited)"
+msgstr "(نه! در هر برگه ای از سایت همیشه این پنجره باید نشان داده شود)"
+
+#: browser-rejector.php:244
+msgid "Some browsers are much worse than others..."
+msgstr "بعضی از مرورگرها بسیار بدتر از دیگران ..."
+
+#: browser-rejector.php:246
+msgid ""
+"Completely block access (don't show the close link) on the following "
+"browsers:"
+msgstr ""
+"به طور کامل دسترسی (لینک نزدیک را نشان می دهد) جلوگیری از در مرورگرهای زیر:"
+
+#: browser-rejector.php:247
+#, fuzzy
+msgid "Internet Explorer 6"
+msgstr "اینترنت اکسپلورر"
+
+#: browser-rejector.php:248
+#, fuzzy
+msgid "Internet Explorer 7"
+msgstr "اینترنت اکسپلورر"
+
+#: browser-rejector.php:249
+msgid ""
+"Firefox 1, 2, 3.x (unfortunately it isn't possible to distinguish between 3."
+"x versions)"
+msgstr ""
+"فایرفاکس 1، 2، 3.x این (متاسفانه این امکان وجود دارد که برای تمایز بین نسخه "
+"های 3.x)"
+
+#: browser-rejector.php:254
+msgid "Advanced Database Options (primarily for debugging)"
+msgstr "گزینه های پایگاه داده پیشرفته (در درجه اول برای اشکال زدایی)"
+
+#: browser-rejector.php:256
+msgid "Restore defaults upon plugin deactivation/reactivation"
+msgstr "بازیابی پیش فرض بر فعال / غیرفعال کردن پلاگین"
+
+#: browser-rejector.php:257
+msgid ""
+"Only check this if you want to reset plugin settings upon plugin reactivation"
+msgstr ""
+"فقط این اگر می خواهید به تنظیم مجدد تنظیمات پلاگین در پلاگین فعال را بررسی "
+"کنید"
+
+#: browser-rejector.php:279
+msgid ""
+"Updates after saving options, not all browser options will be displayed at "
+"once - the suggested browsers vary based on OS (no Safari on Windows, no IE "
+"on Mac, Chrome Frame on IE only)."
+msgstr ""
+"پیش نمایش بعد ار ذخیره ی تغییرات آبدیت می شود. توجه داشته باشید که این "
+"افزونه برای مرورگرهایی که مختص یک سیستم عاملند ولی در سیستم عامل دیگری "
+"استفاده می شوند کاربردی ندارد. (مثلا اینترنت اکسپلورر در مکینتاش و یا سافاری "
+"در ویندوز)"
+
+#: browser-rejector.php:280
+#, fuzzy
+msgid ""
+"Classes are also added to the html element in every browser, wich allow "
+"targeting of css for specific browsers. The classes are os, browser, browser "
+"version, rendering engine, rendering engine version "
+msgstr "پیش نمایش"
+
+#: browser-rejector.php:293
+#, fuzzy
+msgid "Google Chrome Frame"
+msgstr "افزونه ی گوگل کروم برای اینترنت اکسپلورر"
+
+#: browser-rejector.php:293
+#, fuzzy
+msgid "(doesn't require admin)"
+msgstr "(بدون نیاز به مدیریت)"
+
+#: browser-rejector.php:323
+msgid "Save Changes"
+msgstr "ذخیره ی تقییرات"
+
+#: browser-rejector.php:353
+msgid "Settings"
+msgstr "تنظیمات"
+
+#. Plugin URI of the plugin/theme
+msgid "http://celloexpressions.com/dev/browser-rejector"
+msgstr "http://celloexpressions.com/dev/browser-rejector"
+
+#. Description of the plugin/theme
+msgid ""
+"Notify site visitors that they are using an outdated web browser, so the "
+"website may not display properly, displaying alternatives. Optionally "
+"completely block access."
+msgstr ""
+"اطلاع بازدید کنندگان سایت است که آنها در حال استفاده از یک مرورگر وب منسوخ "
+"شده، به طوری که این وب سایت ممکن است نمایش صحیح، گزینه های نمایش. در صورت "
+"تمایل به طور کامل مسدود دسترسی داشته باشید."
+
+#. Author of the plugin/theme
+msgid "Nick Halsey"
+msgstr "Nick Halsey"
+
+#. Author URI of the plugin/theme
+msgid "http://celloexpressions.com"
+msgstr "http://celloexpressions.com"
+
+#~ msgid "(Current Version: 6)"
+#~ msgstr "(نسخه ی کامل: 6)"
+
+#~ msgid "(Current Version: 15)"
+#~ msgstr "(نسخه ی کامل: 15)"
+
+#~ msgid "(Current Version: 12)"
+#~ msgstr "(نسخه ی کامل: 12)"
+
+#~ msgid "(Current Version: 21)"
+#~ msgstr "(نسخه ی کامل: 21)"
+
+#~ msgid "and wp_footer() action hooks here."
+#~ msgstr "این توابع"
+
+#~ msgid ""
+#~ " Display solid html5 version number+ <span style=\"color:#666666;margin-"
+#~ "left:9px;\">(use if you don t update your plugins frequently)"
+#~ msgstr ""
+#~ "(نمایش مرورگرهایی که از HTML5 پشتیبانی می کنند. نکته: اگر از این گزینه "
+#~ "استفاده کنید ممکن است آخرین نسخه ی مرورگر نشان داده نشود.)"
+
+#~ msgid " YES "
+#~ msgstr "بلی"
+
+#~ msgid " No "
+#~ msgstr "خیر"
+
+#~ msgid "Older IEs are partiularly bad..."
+#~ msgstr "نسخه های قدیمی و منسوخ شده ی اینترنت اکسپلورر........"
+
+#~ msgid ""
+#~ " Do not allow visitors to close the rejection window from Internet "
+#~ "Explorer 6 or 7"
+#~ msgstr ""
+#~ "(اگر بازدیدکننده از نسخه های 6 یا 7 اینترنت اکسپلورر استفاده می کرد، به "
+#~ "او اجازه ی بستن پنجره ی هشدار را نده!)"
+
+#~ msgid " (or only 6 depending on your settings)"
+#~ msgstr "..."
+
+#~ msgid "Google Chrome"
+#~ msgstr "گوگل کروم"
+
+#~ msgid "Firefox "
+#~ msgstr "فایرفاکس"
+
+#~ msgid "Opera "
+#~ msgstr "اپرا"
+
+#~ msgid "Safari "
+#~ msgstr "سافاری"
+
+#~ msgid "Chrome "
+#~ msgstr "گوگل کروم"

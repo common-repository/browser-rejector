@@ -1,0 +1,353 @@
+# Copyright (C) 2012 Nick Halsey
+# This file is distributed under the same license as the Browser Rejector package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Browser Rejector 2.08\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/browser-rejector\n"
+"POT-Creation-Date: 2012-09-10 03:24:08+00:00\n"
+"PO-Revision-Date: 2012-09-30 11:09+0100\n"
+"Last-Translator: Axel Kriewel\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+
+#: browser-rejector.php:51
+msgid "Did you know that your internet browser is out of date?"
+msgstr "Wussten Sie, dass Ihr Browser veraltet ist?"
+
+#: browser-rejector.php:52
+msgid ""
+"Your browser is out of date and may not be able to properly display our "
+"website."
+msgstr ""
+"Ihr Browser ist veraltet und kann evtl. unsere Website nicht mehr richtig "
+"angezeigen."
+
+#: browser-rejector.php:53
+msgid ""
+"A list of modern browsers is below; simply click an icon to go to the "
+"browser's download page."
+msgstr ""
+"Eine Liste von modernen Browsern sehen Sie  unten; klicken Sie einfach auf "
+"ein Symbol, um den zur Download-Seite zu gehen."
+
+#: browser-rejector.php:55
+msgid ""
+"By closing this window you acknowledge that your experience on our website "
+"may be degraded."
+msgstr ""
+"Durch schließen dieses Fensters erkennen Sie an, dass Sie diese Webseite ggf. "
+"nicht vollständig nutzen können."
+
+#: browser-rejector.php:56
+msgid "Close Window"
+msgstr "Fenster schließen"
+
+#. #-#-#-#-#  plugin.pot (Browser Rejector 2.05)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: browser-rejector.php:95
+msgid "Browser Rejector"
+msgstr "Browser Rejector"
+
+#: browser-rejector.php:118
+msgid "Browser Rejector Settings"
+msgstr "Browser Rejector Einstellungen"
+
+#: browser-rejector.php:120
+msgid "Rejection Window"
+msgstr "Rejection Fenster"
+
+#: browser-rejector.php:121
+msgid "Browsers to Reject"
+msgstr "Welcher Browser soll abgelehnt werden?"
+
+#: browser-rejector.php:122
+msgid "Preview"
+msgstr "Vorschau"
+
+#: browser-rejector.php:137 browser-rejector.php:297
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#: browser-rejector.php:137 browser-rejector.php:147 browser-rejector.php:156
+#: browser-rejector.php:165 browser-rejector.php:174
+msgid "Current Version"
+msgstr "Aktuelle Version"
+
+#: browser-rejector.php:139
+msgid "6 (highly unpredictable and unstable)"
+msgstr "6 (sehr unberechenbar und instabil)"
+
+#: browser-rejector.php:140
+msgid "7 (very unpredictable)"
+msgstr "7 (schwer einschätzbar)"
+
+#: browser-rejector.php:141
+msgid "8 (no html5/css3 implementation)"
+msgstr "8 (keine html5/css3 Implementation)"
+
+#: browser-rejector.php:142 browser-rejector.php:151 browser-rejector.php:160
+#: browser-rejector.php:169 browser-rejector.php:177
+msgid "All versions (discouraged except for testing purposes)"
+msgstr "Alle Versionen (nur zu Testzwecken angeraten)"
+
+#: browser-rejector.php:147 browser-rejector.php:309
+msgid "Safari"
+msgstr "Safari"
+
+#: browser-rejector.php:149
+msgid "2-3 (no html5/css3)"
+msgstr "2-3 (kein html5/css3)"
+
+#: browser-rejector.php:150
+msgid ""
+"4 (some html5/css3) - <i>Note: Android 3.x default browser identifies as "
+"Safari 4"
+msgstr ""
+"4 (ein wenig html5/css3) - <i>Hinweis: Android 3.x Standard-Browser "
+"identifiziert sich als Safari 4"
+
+#: browser-rejector.php:156 browser-rejector.php:301
+msgid "Firefox"
+msgstr "Firefox"
+
+#: browser-rejector.php:158
+msgid "1-2 (no html5/css3)"
+msgstr "1-2 (kein html5/css3)"
+
+#: browser-rejector.php:159
+msgid "3 (limited html5/css3, depending on 3.x version)"
+msgstr "3 (begrenzt html5/css3, je nach Version 3.x)"
+
+#: browser-rejector.php:165 browser-rejector.php:305
+msgid "Opera"
+msgstr "Opera"
+
+#: browser-rejector.php:167
+msgid "7-9 (no html5/css3)"
+msgstr "7-9 (kein html5/css3)"
+
+#: browser-rejector.php:168
+msgid "10 (early html5/css3 adoptions)"
+msgstr "10 (frühe html5/css3 Adaptionen)"
+
+#: browser-rejector.php:174 browser-rejector.php:289
+msgid "Chrome"
+msgstr "Chrome"
+
+#: browser-rejector.php:176
+msgid "1-3 (early html5/css3 adoptions)"
+msgstr "1-3 (early html5/css3 adoptions)"
+
+#: browser-rejector.php:186
+msgid "Allow Visitors to Close the Rejection Window?"
+msgstr "Besuchern erlauben das Ablehungsfenster zu schließen?"
+
+#: browser-rejector.php:186
+msgid "Note: the window overlays your site with a semi-transparent background."
+msgstr ""
+"Hinweis: Das Fenster überlagert Ihre Website mit einem semi-transparenten "
+"Hintergrund."
+
+#: browser-rejector.php:188 browser-rejector.php:238
+msgid "Yes"
+msgstr "Ja"
+
+#: browser-rejector.php:188
+msgid ""
+"(visitors in rejected browsers can close the rejection message and continue "
+"to your site)"
+msgstr ""
+"(Besucher mit abgelehntem Browser kann die Ablehnungs-Meldung schließen und "
+"weiter Ihre Website besuchen)"
+
+#: browser-rejector.php:189 browser-rejector.php:239
+msgid "No"
+msgstr "Nein"
+
+#: browser-rejector.php:189
+msgid ""
+"(visitors must install a modern broswer or Chrome Frame before accessing "
+"your site)"
+msgstr ""
+"(Besucher müssen einen aktuellen Broswer vor dem Zugriff auf Ihre Website "
+"installieren)"
+
+#: browser-rejector.php:192
+msgid "Make sure that your theme's header.php file has the necessary"
+msgstr "Stellen Sie sicher, dass Ihre Theme header.php die notwendigen"
+
+#: browser-rejector.php:192
+msgid "action hook."
+msgstr "action hook hat."
+
+#: browser-rejector.php:192
+msgid "Read WordPress' documentation on the wp_head() action hook here."
+msgstr ""
+"Lesen Sie die WordPress-Dokumentation über den wp_head() action hook hier."
+
+#: browser-rejector.php:195
+msgid "Browser Suggestion Display"
+msgstr "Browser Vorschlag Anzeige"
+
+#: browser-rejector.php:197
+msgid "Display latest browser version number"
+msgstr "Anzeige der neuesten Browser-Version Nr."
+
+#: browser-rejector.php:197
+msgid ""
+"(plugin will be updated with each new browser version release, use if you "
+"keep your plugins up to date)"
+msgstr ""
+"(Plugin wird mit jeder neuen Browser-Version Version aktualisiert. Verwenden, "
+"wenn Sie Ihre Plugins aktuell halten)"
+
+#: browser-rejector.php:198
+msgid "Display solid html5 version number+ "
+msgstr ""
+
+#: browser-rejector.php:198
+msgid "(use if you don't update your plugins frequently)"
+msgstr "(verwenden, wenn Sie nicht regelmäßig Ihre Plugins aktualisieren)"
+
+#: browser-rejector.php:203
+msgid "Header Text"
+msgstr "Überschrift"
+
+#: browser-rejector.php:203
+msgid "NO DOUBLE QUOTES!!! (\")"
+msgstr "Keine doppelten Anführungszeichen!!! (\")"
+
+#: browser-rejector.php:209
+msgid "Paragraph 1"
+msgstr "Absatz 1"
+
+#: browser-rejector.php:215
+msgid "Paragraph 2"
+msgstr "Absatz 2"
+
+#: browser-rejector.php:222
+msgid "Close Message"
+msgstr "Hinweis beim Schließen"
+
+#: browser-rejector.php:228
+msgid "Close Link Text"
+msgstr "Hinweistext für Schließen"
+
+#: browser-rejector.php:236
+msgid "Remember if the visitor closed the rejection message?"
+msgstr "Daran erinnern wenn der Besucher den Rejection-Hinweis geschlossen hat?"
+
+#: browser-rejector.php:238
+msgid "(the rejection window will only be displayed once per session)"
+msgstr "(das Rejection-Fenster wird nur einmal pro Sitzung angezeigt)"
+
+#: browser-rejector.php:239
+msgid ""
+"(the rejection window will be displayed every time a new page is visited)"
+msgstr ""
+"(das Rejection-Fenster wird jedes Mal angezeigt wenn eine neue Seite besucht "
+"wird)"
+
+#: browser-rejector.php:244
+msgid "Some browsers are much worse than others..."
+msgstr "Manche Browser sind viel schlimmer als andere ..."
+
+#: browser-rejector.php:246
+msgid ""
+"Completely block access (don't show the close link) on the following "
+"browsers:"
+msgstr ""
+"Zugang für folgende Browser komplett verweigern (den \"schließen\"-Link "
+"nicht anzeigen):"
+
+#: browser-rejector.php:247
+msgid "Internet Explorer 6"
+msgstr "Internet Explorer 6"
+
+#: browser-rejector.php:248
+msgid "Internet Explorer 7"
+msgstr "Internet Explorer 7"
+
+#: browser-rejector.php:249
+msgid ""
+"Firefox 1, 2, 3.x (unfortunately it isn't possible to distinguish between 3."
+"x versions)"
+msgstr ""
+"Firefox 1, 2, 3.x (leider ist es nicht möglich, zwischen 3.x Versionen zu "
+"unterscheiden)"
+
+#: browser-rejector.php:254
+msgid "Advanced Database Options (primarily for debugging)"
+msgstr "Erweiterte Datenbank-Optionen (in erster Linie für Debugging)"
+
+#: browser-rejector.php:256
+msgid "Restore defaults upon plugin deactivation/reactivation"
+msgstr ""
+"Standardeinstellungen wiederherstellen nach Plugin Deaktivierung/"
+"Reaktivierung"
+
+#: browser-rejector.php:257
+msgid ""
+"Only check this if you want to reset plugin settings upon plugin reactivation"
+msgstr ""
+"Nur aktivieren, wenn Sie Plugin-Einstellungen bei Plugin-Reaktivierung auf "
+"Standardwerte zurücksetzen möchten"
+
+#: browser-rejector.php:279
+msgid ""
+"Updates after saving options, not all browser options will be displayed at "
+"once - the suggested browsers vary based on OS (no Safari on Windows, no IE "
+"on Mac, Chrome Frame on IE only)."
+msgstr ""
+
+#: browser-rejector.php:280
+msgid ""
+"Classes are also added to the html element in every browser, wich allow "
+"targeting of css for specific browsers. The classes are os, browser, browser "
+"version, rendering engine, rendering engine version "
+msgstr ""
+"Klassen werden auch in den HTML-Elementen in jedem Browser hinzugefügt, somit "
+"kann CSS für bestimmte Browser ausgewählt werden. Die Klassen sind OS, "
+"Browser, Browser-Version, Rendering-Engine, Rendering-Engine-Version"
+
+#: browser-rejector.php:293
+msgid "Google Chrome Frame"
+msgstr "Google Chrome Frame"
+
+#: browser-rejector.php:293
+msgid "(doesn't require admin)"
+msgstr "(Benötigt keine Admin-Rechte)"
+
+#: browser-rejector.php:323
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: browser-rejector.php:353
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. Plugin URI of the plugin/theme
+msgid "http://celloexpressions.com/dev/browser-rejector"
+msgstr "http://celloexpressions.com/dev/browser-rejector"
+
+#. Description of the plugin/theme
+msgid ""
+"Notify site visitors that they are using an outdated web browser, so the "
+"website may not display properly, displaying alternatives. Optionally "
+"completely block access."
+msgstr ""
+"Benachrichtigen Sie Website-Besucher, dass sie einen veralteten Webbrowser "
+"benutzen, so dass die Website möglicherweise nicht ordnungsgemäß angezeigt "
+"wird und bieten ihm Alternativen. Optional kann der Zutritt zur Webseite "
+"komplett geblockt werden."
+
+#. Author of the plugin/theme
+msgid "Nick Halsey"
+msgstr "Nick Halsey"
+
+#. Author URI of the plugin/theme
+msgid "http://celloexpressions.com"
+msgstr "http://celloexpressions.com"
